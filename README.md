@@ -41,3 +41,4 @@ import numpy
 import pandas
 import matplotlib
 If no errors appeared then the installation is done correctly. Then, Go to your directory and run the file QuestionDiagonosisTkinter.py
+URL FOR THE CODE AND DEPLOYMENT:-  https://github.com/amishrajgupta/healthcare_chatbotConsole.py
